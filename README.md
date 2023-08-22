@@ -13,20 +13,11 @@ With our uneraseable decentralized web page hosting, your content stays live and
 ### Free Hosting
 We believe in making the web accessible to everyone. That's why we offer free hosting services with 5 GB storage and unlimited bandwidth. Perfect for small businesses or personal blogs.
 
-### WordPress Hosting
-Get the most out of WordPress with our optimized WordPress hosting. Our platform is designed to provide a smooth, secure, and fast WordPress experience.
-
 ### Dedicated Server
 For those who need more power and control, we offer dedicated server hosting. Get an entire server to yourself, fully customizable to your needs.
 
 ### Reseller Hosting
 Start your own hosting business with our reseller hosting plans. We provide you with the tools and support you need to succeed.
-
-### Game Server Hosting
-Host your game servers on our robust and low-latency network. Perfect for multiplayer games that require fast and reliable connections.
-
-### Email Hosting
-Get professional email hosting for your business. Our email hosting service is reliable, secure, and includes spam protection.
 
 ## Get Started
 To start using our services, visit our website at [Decentrealized Web](https://www.decentrealizedweb.xyz)
